@@ -24,7 +24,7 @@ This project is a production-ready Preact application template with an optimized
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/preact-production-app.git
+   git clone https://github.com/jameswquinn/preact-production-app/tree/main.git
    cd preact-production-app
    ```
 
