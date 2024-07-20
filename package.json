@@ -38,6 +38,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.22.5",
-    "preact": "^10.15.1"
+    "preact": "^10.15.1",
+    "preact-router": "^4.0.1"
   }
 }
