@@ -1,7 +1,7 @@
 {
   "name": "preact-production-app",
   "version": "1.0.0",
-  "description": "A project using Webpack with Preact and PWA support",
+  "description": "This project is a production-ready Preact application template with an optimized Webpack configuration. It provides a solid foundation for building modern, performant web applications using Preact.",
   "main": "src/index.js",
   "scripts": {
     "start": "webpack serve --mode development",
